@@ -1,0 +1,1 @@
+Repositório para guardar algumas questões de olimpíadas de informática.
